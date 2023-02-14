@@ -38,7 +38,6 @@ After you're finished please remove all the comments and instructions!
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Usage](#usage)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -56,11 +55,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[HTML for creating the user interface]**
-- **[Linters]**
-- **[CSS]**
+- **[Linters to ensure code quality]**
+- **[CSS to add styling so as the use interface is appleaing to end users]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,7 +65,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -106,9 +102,7 @@ cd theproject folder
 git clone git@github.com:mirwan918/Hello-Microverse-Project.git 
 ```
 
-### Usage
 
-To run the project, execute the following command:
 
 <!--
 Example command:
