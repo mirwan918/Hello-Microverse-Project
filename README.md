@@ -42,17 +42,14 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse-Project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Hello-Microverse-Project]** is a project that entails creating HTML files and styling using CSS. Creating linters and fixing linter errors.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 
 <!-- Features -->
@@ -61,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[HTML]**
+- **[HTML for creating the user interface]**
 - **[Linters]**
 - **[CSS]**
 
