@@ -1,4 +1,3 @@
-# Hello-Microverse-Project
 <a name="readme-top"></a>
 
 <!--
@@ -26,6 +25,14 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -35,10 +42,21 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [🔭 Future Features](#future-features)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -48,8 +66,19 @@ After you're finished please remove all the comments and instructions!
 **[Hello-Microverse-Project]** is a project that entails creating HTML files and styling using CSS. Creating linters and fixing linter errors.
 
 ## 🛠 Built With <a name="built-with"></a>
+The technologies used are:
+-HTML
+-CSS
+-Linters
+-GIT
 
 ### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  This project display the heading "Hello Microverse!"
+  [This is in form of a webpage that displays "Hello Microverse!"]
+</details>
 
 
 <!-- Features -->
@@ -62,24 +91,26 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-Basic knowledge of HTML,CSS, and Javascript
+Basic knowledge of HTML,CSS, and Javascript.
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
@@ -87,29 +118,12 @@ If you installed git you can clone the code to your machine,or download a ZIP of
 
 [Download the ZIP from this location](https://github.com/mirwan918/Hello-Microverse-Project/archive/refs/heads/create-user-interface.zip),or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
 ```
 cd theproject folder
 git clone git@github.com:mirwan918/Hello-Microverse-Project.git 
 ```
 - Once the files are on your machine, open the _portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/)
 - With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 ### Install
 
@@ -120,6 +134,50 @@ The following tools help make easier to work with sample code.
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): A simple web server utility for Visual Studio Code
 
 
+### Usage
+
+To run the project, execute the following command:
+
+```
+  cd Hello Miroverse Project folder
+```  
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+
+👤 **Author1**
+
+- GitHub: [@mirwan918](https://github.com/mirwan918)
+- Twitter: [@gichuki_miriam](https://twitter.com/gichuki_miriam)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/miriamgichuki/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,11 +185,62 @@ The following tools help make easier to work with sample code.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Log in and reset password interface user to access account.]**
+- [ ] **[Log in and reset password interface user to access account]**
 - [ ] **[API integration with database to ensure information displayed is correct and updated.]**
 - [ ] **[Social media intergration for users to use for login if one has an existing social media account.]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>w_feature_3]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/mirwan918/Hello-Microverse-Project/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank [Microverse](https://www.microverse.org/) for giving this opportunity to learn.
+-Coding partners.
+-Code reviewers.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Is the webpage displayed a HTML document?]**
+
+  - [Yes.]
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
