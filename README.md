@@ -185,8 +185,7 @@ If you like this project, kindly give it a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank [Microverse](https://www.microverse.org/) for giving this opportunity to learn.
--Coding partners.
--Code reviewers.
+Also acknowledgment coding partners and Code reviewers.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
