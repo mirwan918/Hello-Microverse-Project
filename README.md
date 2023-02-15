@@ -25,15 +25,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -118,10 +109,6 @@ If you installed git you can clone the code to your machine,or download a ZIP of
 
 [Download the ZIP from this location](https://github.com/mirwan918/Hello-Microverse-Project/archive/refs/heads/create-user-interface.zip),or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
-```
-cd theproject folder
-git clone git@github.com:mirwan918/Hello-Microverse-Project.git 
-```
 - Once the files are on your machine, open the _portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/)
 - With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
@@ -138,33 +125,16 @@ The following tools help make easier to work with sample code.
 
 To run the project, execute the following command:
 
-```
-  cd Hello Miroverse Project folder
-```  
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,9 +176,7 @@ Feel free to check the [issues page](https://github.com/mirwan918/Hello-Microver
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, kindly give it a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,8 +193,6 @@ I would like to thank [Microverse](https://www.microverse.org/) for giving this 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Is the webpage displayed a HTML document?]**
 
