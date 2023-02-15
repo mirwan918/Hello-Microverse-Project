@@ -38,6 +38,7 @@ After you're finished please remove all the comments and instructions!
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [🔭 Future Features](#future-features)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -121,3 +122,16 @@ The following tools help make easier to work with sample code.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Log in and reset password interface user to access account.]**
+- [ ] **[API integration with database to ensure information displayed is correct and updated.]**
+- [ ] **[Social media intergration for users to use for login if one has an existing social media account.]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>w_feature_3]
+
